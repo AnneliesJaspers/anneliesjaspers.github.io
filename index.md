@@ -1,5 +1,9 @@
 ## Hi! I am Annelies. 
 
+I am a mathematician passionate about analytics and travel. I will write about my adventures (in my two passions) here. Coming soon!
+
+### About me professionally
+
 In 2017, I finished my PhD in Mathematics at the University of Leuven in Belgium and the university of Copenhagen in Denmark. I specialised in Algebraic Geometry and you can find my PhD thesis [here](https://arxiv.org/pdf/1706.07086.pdf).
 
 After my PhD, I started as a consultant at [Addestino Innovation Managent](https://www.addestino.be/) in Belgium. Addestino is a boutique management consulting firm focused on innovation and projects for a company's IT department or CIO. I for example advised a governmental institution about innovating by developing an app.
